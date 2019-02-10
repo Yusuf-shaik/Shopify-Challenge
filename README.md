@@ -1,2 +1,2 @@
 # Shopify-Challenge
-Hosted version of this project can be found at: https://jsfiddle.net/hjLygdvb/6/
+A hosted version of this project can be found at: https://jsfiddle.net/hjLygdvb/6/
